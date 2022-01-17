@@ -67,6 +67,8 @@ We notice that not only are features from 'Ease and convenient' to 'Good Trackin
 
 Out of all models created, Random Forest and K Nearest Neighbors give the best performance. K Nearest Neighbors has the added advantage of being relatively simpler to interpret, without any sacrifice in accuracy.
 
+![image](https://user-images.githubusercontent.com/62097113/149714284-c9639163-d3d2-4266-aea6-060488be992b.png)
+
 Another consideration is about the data itself. We see that most of the variables that have a material impact on customer churn relate to broad aspects of ease and convenience. In fact, the subset of features selected in the model could inform business decisions, regarding which aspects of the service could be focused on for minimizing churn, and what user segments should the marketing dollars be spent on.
 
 
