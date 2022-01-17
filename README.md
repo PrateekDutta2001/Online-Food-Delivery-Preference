@@ -5,8 +5,7 @@ In the historical times there were farmers that had the noblest work to grow the
 Over the years the eatery sector of society grew, various kind of food were invented at various part of the world and the monetary benefits in export and import of these products caught eye of many people.
 
 People love to taste new foods and give their precious reviews on the food items. But as it is a general problem of places that are usually crowed the traffic makes it very frustrating for people to travel to such places. Even the restaurants could not handle so much pressure at one time. 
-Hence in 1995 (World Wide Waiter) the first online food delivery system was started. Though before this in India the Indian dabbawalas use to deliver food in schools and offices from 1890.
-Over the years this business grew large and more and more online platforms opened. These platforms connected with restaurants and thus expanded their networks. 
+Hence in 1995 (World Wide Waiter) the first online food delivery system was started. Though before this in India the Indian dabbawalas use to deliver food in schools and offices from 1890. Over the years this business grew large and more and more online platforms opened. These platforms connected with restaurants and thus expanded their networks. 
 
 In large cities or in metropolitan places this business has bloomed and star-ups like swiggy and zomato have grown. Even in this lockdown period of our society we have seen the growth of such companies. 
 These companies attract students and freshers who do not have a lot of income as they offer discounts and other benefits.
