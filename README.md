@@ -84,7 +84,7 @@ Another consideration is about the data itself. We see that most of the variable
 
 This project has been developed by Abhiroop Sarkar & Prateek Dutta for the purpose of institutional project. 
 
-Dataset can be shared on requirement basis for educational purpose only. Candidate with requirement can mail a by mentioning the designation and current role with proper identity card in attachment.
+Project Document can be shared on requirement basis for educational purpose only. Candidate with requirement can mail a by mentioning the designation and current role with proper identity card in attachment.
 
-Thank You, Have a Nice Day!
+Stay Safe & Healthy!
 
